@@ -1,0 +1,30 @@
+.qh-zkz { zoom: 1; }
+.qh-zkz:after { clear: both; }
+.qh-zkz:before, .qh-zkz:after { content: ""; display: table; }
+
+.qh-zkz .zkz-btn, .qh-zkz .zkz-btn i, .qh-zkz .zkz-l li, .qh-zkz .zkz-r li { display: inline-block; *zoom: 1; *display: inline; }
+
+.qh-zkz { width: 778px; padding: 20px 0; background-color: #ffffff; border: solid 1px #eeeeee; }
+.qh-zkz .zkz-title { font-size: 22px; font-weight: bold; line-height: 30px; color: #333333; text-align: center; }
+.qh-zkz .zkz-btn { padding: 0 30px; font-size: 15px; height: 36px; line-height: 35px; background-image: linear-gradient(0deg, #fe583a 0%, #ff684d 100%), linear-gradient(#fe583a, #fe583a); background-blend-mode: normal, normal; box-shadow: 0px 5px 10px 0px rgba(176, 27, 0, 0.2); border-radius: 18px; color: #fff; }
+.qh-zkz .zkz-btn span, .qh-zkz .zkz-btn i { vertical-align: middle; }
+.qh-zkz .zkz-btn i { width: 14px; height: 14px; background: url("../images/icon_5.png") no-repeat; margin-left: 6px; }
+.qh-zkz .zkz-l { float: left; width: 306px; border-right: 1px solid #eee; text-align: center; }
+.qh-zkz .zkz-l ul { padding: 9px 10px 5px; box-sizing: border-box; }
+.qh-zkz .zkz-l li { width: 35%; padding-left: 26px; font-size: 14px; height: 30px; line-height: 30px; color: #666666; text-align: left; margin-bottom: 9px; background: url("../images/icon_1.png") no-repeat left center; }
+.qh-zkz .zkz-l li:nth-of-type(2) { background: url("../images/icon_2.png") no-repeat left center; }
+.qh-zkz .zkz-l li:nth-of-type(3) { background: url("../images/icon_3.png") no-repeat left center; }
+.qh-zkz .zkz-l li:nth-of-type(4) { background: url("../images/icon_4.png") no-repeat left center; }
+.qh-zkz .zkz-r { float: left; width: 469px; height: 158px; text-align: center; }
+.qh-zkz .zkz-r ul { padding: 16px 36px 0 38px; height: 92px; box-sizing: border-box; text-align: left; }
+.qh-zkz .zkz-r li { font-size: 14px; min-width: 195px; padding-left: 60px; box-sizing: border-box; line-height: 24px; color: #666666; text-align: left; margin-bottom: 10px; position: relative; }
+.qh-zkz .zkz-r li span { position: absolute; left: 0; padding: 0 5px; height: 22px; line-height: 22px; border-radius: 4px; border: solid 1px #fe583a; color: #fe583a; margin-right: 4px; }
+.qh-zkz .zkz-r .haslongli { padding: 10px 36px 0 38px; }
+.qh-zkz .zkz-r .haslongli li { margin-bottom: 9px; }
+.qh-zkz .zkz-r .haslongli .longli { padding-left: 72px; line-height: 20px; }
+.qh-zkz .zkz-r .zkz-btn { margin: 0 20px; }
+.qh-zkz .zkz-r .r-people { position: relative; }
+.qh-zkz .zkz-r .r-people .p-num { font-size: 15px; color: #666666; line-height: 36px; position: absolute; left: 330px; }
+.qh-zkz .zkz-r .r-people .p-num em { color: #fe583a; }
+
+/*# sourceMappingURL=index.css.map */
